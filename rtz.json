@@ -1,0 +1,22 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/runtimez-com/runtimez-cli/releases/download/v0.1.2/rtz_0.1.2_windows_amd64.zip",
+            "bin": [
+                "rtz.exe"
+            ],
+            "hash": "b9826251a081ace9d7a5adf3bcc6bc433ed5bd2fa83024a03a60b85011ffe0e5"
+        },
+        "arm64": {
+            "url": "https://github.com/runtimez-com/runtimez-cli/releases/download/v0.1.2/rtz_0.1.2_windows_arm64.zip",
+            "bin": [
+                "rtz.exe"
+            ],
+            "hash": "903bcc54bd5d1bd18fe0dd245348012d6c3de7d6b9b32a6f8c30dcb18d214284"
+        }
+    },
+    "homepage": "https://github.com/runtimez-com/runtimez-cli",
+    "license": "Apache-2.0",
+    "description": "Operate and troubleshoot Kubernetes from the runtimez control plane"
+}
