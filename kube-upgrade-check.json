@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/runtimez-com/kube-upgrade-check/releases/download/v0.1.0/kube-upgrade-check_0.1.0_windows_amd64.zip",
+            "bin": [
+                "kube-upgrade-check.exe"
+            ],
+            "hash": "bad57212fd9aac56edcf68cbb0699b20388bc0bf5f701174a05e953408fa3725"
+        },
+        "arm64": {
+            "url": "https://github.com/runtimez-com/kube-upgrade-check/releases/download/v0.1.0/kube-upgrade-check_0.1.0_windows_arm64.zip",
+            "bin": [
+                "kube-upgrade-check.exe"
+            ],
+            "hash": "2aec89d3130b45879bd1ce1a7bd0c99fc20beda3ce43e0db7f68e3763dafdf54"
+        }
+    },
+    "homepage": "https://github.com/runtimez-com/kube-upgrade-check",
+    "license": "Apache-2.0",
+    "description": "Find what breaks before you upgrade Kubernetes"
+}
