@@ -1,19 +1,19 @@
 {
-    "version": "0.1.6",
+    "version": "0.1.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/runtimez-com/kube-upgrade-check/releases/download/v0.1.6/kube-upgrade-check_0.1.6_windows_amd64.zip",
+            "url": "https://github.com/runtimez-com/kube-upgrade-check/releases/download/v0.1.7/kube-upgrade-check_0.1.7_windows_amd64.zip",
             "bin": [
                 "kube-upgrade-check.exe"
             ],
-            "hash": "b309c80566fec77a1e69c19ab228d73a1b0172dfc57b34d80356f1d0daac1340"
+            "hash": "0864ff7e381790029107f800ed85d35c46f63a40f48512e740f78d0eb2787032"
         },
         "arm64": {
-            "url": "https://github.com/runtimez-com/kube-upgrade-check/releases/download/v0.1.6/kube-upgrade-check_0.1.6_windows_arm64.zip",
+            "url": "https://github.com/runtimez-com/kube-upgrade-check/releases/download/v0.1.7/kube-upgrade-check_0.1.7_windows_arm64.zip",
             "bin": [
                 "kube-upgrade-check.exe"
             ],
-            "hash": "92ea3b1400dedb65fa22f7f6755184d24e28719e85422f1d2cc671fa50bb21f9"
+            "hash": "5d5a7f16f39931cc9df3c6dad6e21093a84305a43dc25b085cb77e4f74271e33"
         }
     },
     "homepage": "https://github.com/runtimez-com/kube-upgrade-check",
